@@ -25,7 +25,7 @@ var visualization = d3plus.viz()
  });
 
 
- var visualization = d3plus.viz()
+var visualization = d3plus.viz()
  .container("#viz3")
  .data([
   {"year": 1991, "name":"alpha", "value": 15},
